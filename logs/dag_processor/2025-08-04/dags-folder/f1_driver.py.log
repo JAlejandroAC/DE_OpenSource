@@ -1,0 +1,518 @@
+{"timestamp":"2025-08-04T15:26:47.020182","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:26:49.271564Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:26:49.297390Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:26:49.297835Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:26:49.298121Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:26:49.298356Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:26:49.305942Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:27:19.642215","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:27:20.305698Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:27:20.317289Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:27:20.317571Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:27:20.317790Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:27:20.318023Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:27:20.318236Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:27:50.643015","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:27:51.252950Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:27:51.261735Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:27:51.262308Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:27:51.262595Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:27:51.262847Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:27:51.268615Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:28:21.598109","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:28:22.217332Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:28:22.223698Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:28:22.223978Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:28:22.224218Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:28:22.224429Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:28:22.224624Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:28:52.535180","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:28:53.772518Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:28:53.781390Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:28:53.781669Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:28:53.781901Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:28:53.782113Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:28:53.787878Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:29:24.092955","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:29:24.778312Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:29:24.778568Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:29:24.778767Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:29:24.778973Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:29:24.779168Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:29:24.779361Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:29:55.091912","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:29:55.719691Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:29:55.735687Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:29:55.735964Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:29:55.736202Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:29:55.736425Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:29:55.736629Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:30:26.054418","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:30:27.028172Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:30:27.038737Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:30:27.038993Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:30:27.039210Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:30:27.039423Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:30:27.039619Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:30:57.453442","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:30:58.071276Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:30:58.082017Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:30:58.082282Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:30:58.082498Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:30:58.082692Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:30:58.082888Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:31:29.106291","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:31:29.720984Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:31:29.729671Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:31:29.729964Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:31:29.730212Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:31:29.730495Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:31:29.736228Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:32:00.214591","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:32:00.950419Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:32:00.959609Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:32:00.959895Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:32:00.960112Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:32:00.960344Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:32:00.966173Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:32:31.549378","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:32:35.913217Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:32:35.925135Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:32:35.925397Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:32:35.925608Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:32:35.925799Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:32:35.926004Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:33:06.322333","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:33:06.868233Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:33:06.876956Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:33:06.877277Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:33:06.877495Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:33:06.877796Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:33:06.883886Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:33:36.959528","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:33:37.729854Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:33:37.740585Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:33:37.740957Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:33:37.741215Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:33:37.741437Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:33:37.748292Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:34:07.841803","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:34:08.891431Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:34:08.900232Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:34:08.900539Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:34:08.900775Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:34:08.900972Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:34:08.906341Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:34:39.271128","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:34:40.174266Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:34:40.184761Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:34:40.185157Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:34:40.185399Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:34:40.185623Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:34:40.191190Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:35:10.833055","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:35:11.431504Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:35:11.440456Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:35:11.440724Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:35:11.440906Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:35:11.441092Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:35:11.446313Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:35:41.523458","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:35:42.846969Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:35:42.857284Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:35:42.857572Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:35:42.857803Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:35:42.858033Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:35:42.863575Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:36:12.968029","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:36:13.544306Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:36:13.554176Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:36:13.554494Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:36:13.554754Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:36:13.555016Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:36:13.560196Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:36:43.663075","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:36:44.276245Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:36:44.285209Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:36:44.285491Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:36:44.285753Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:36:44.285984Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:36:44.291841Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:37:14.987133","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:37:15.619458Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:37:15.629948Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:37:15.630288Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:37:15.630516Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:37:15.630734Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:37:15.636503Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:37:45.720872","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:37:46.282142Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:37:46.290748Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:37:46.291036Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:37:46.291281Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:37:46.291515Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:37:46.297469Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:38:16.376721","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:38:17.234593Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:38:17.244506Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:38:17.244857Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:38:17.245088Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:38:17.245325Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:38:17.251068Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:38:47.342563","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:38:47.940279Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:38:47.949905Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:38:47.950292Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:38:47.950539Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:38:47.950738Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:38:47.956573Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:39:18.035315","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:39:19.602113Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:39:19.612198Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:39:19.612501Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:39:19.612730Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:39:19.612936Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:39:19.618571Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:39:49.996343","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:39:50.592138Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:39:50.601087Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:39:50.601375Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:39:50.601626Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:39:50.601886Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:39:50.607290Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:40:20.692632","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:40:21.569348Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:40:21.579325Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:40:21.579685Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:40:21.579904Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:40:21.580108Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:40:21.585624Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:40:51.691390","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:40:52.310284Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:40:52.319829Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:40:52.320083Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:40:52.320292Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:40:52.320486Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:40:52.326253Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:41:22.430999","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:41:23.084347Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:41:23.094392Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:41:23.094780Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:41:23.095012Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:41:23.095233Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:41:23.100894Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:41:53.222102","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:41:53.821317Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:41:53.830679Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:41:53.830953Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:41:53.831211Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:41:53.831403Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:41:53.837533Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:42:23.999091","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:42:24.721170Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:42:24.730583Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:42:24.730957Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:42:24.731197Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:42:24.731452Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:42:24.737119Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:42:54.864040","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:42:55.419467Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:42:55.429673Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:42:55.429988Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:42:55.430205Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:42:55.430463Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:42:55.435704Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:43:25.547193","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:43:26.213636Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:43:26.223124Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:43:26.223697Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:43:26.223919Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:43:26.224108Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:43:26.229371Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:43:56.339415","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:43:56.951887Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:43:56.965613Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:43:56.966887Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:43:56.967475Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:43:56.967811Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:43:56.976991Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:44:27.097132","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:44:27.722086Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:44:27.731411Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:44:27.731690Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:44:27.731904Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:44:27.732154Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:44:27.737315Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:44:57.803120","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:44:58.445477Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:44:58.454303Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:44:58.454634Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:44:58.454940Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:44:58.455149Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:44:58.461340Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:45:28.903290","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:45:29.529102Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:45:29.538319Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:45:29.538710Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:45:29.538977Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:45:29.539211Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:45:29.545531Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:45:59.618673","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:46:00.247115Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:46:00.257877Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:46:00.258218Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:46:00.258444Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:46:00.258672Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:46:00.265036Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:46:30.343834","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:46:30.966123Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:46:30.977682Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:46:30.978010Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:46:30.978225Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:46:30.978424Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:46:30.983978Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:47:01.974580","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:47:02.607484Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:47:02.616444Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:47:02.616735Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:47:02.617067Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:47:02.617274Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:47:02.623158Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:47:33.021423","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:47:33.689215Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:47:33.699933Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:47:33.700227Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:47:33.700440Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:47:33.700641Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:47:33.706287Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:48:04.143732","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:48:04.762092Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:48:04.771511Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:48:04.771867Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:48:04.772079Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:48:04.772275Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:48:04.778534Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:48:34.853820","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:48:35.455709Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:48:35.466508Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:48:35.466972Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:48:35.467598Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:48:35.467858Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:48:35.474472Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:49:05.560086","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:49:06.151529Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:49:06.161132Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:49:06.161516Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:49:06.161871Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:49:06.162082Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:49:06.168601Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:49:36.255927","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:49:36.874490Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:49:36.886146Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:49:36.886510Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:49:36.886736Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:49:36.886929Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:49:36.892792Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:50:06.960732","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:50:07.562282Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:50:07.572367Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:50:07.572681Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:50:07.572957Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:50:07.573163Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:50:07.579163Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:50:37.651629","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:50:38.429963Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:50:38.440349Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:50:38.440631Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:50:38.440831Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:50:38.441041Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:50:38.446465Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:51:08.807305","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:51:09.446434Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:51:09.455932Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:51:09.456235Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:51:09.456454Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:51:09.456659Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:51:09.461905Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:51:40.242806","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:51:42.328161Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:51:42.338825Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:51:42.339151Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:51:42.339411Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:51:42.339703Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:51:42.345906Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:52:12.616152","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:52:13.454942Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:52:13.464410Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:52:13.465182Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:52:13.465403Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:52:13.465598Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:52:13.470882Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:52:43.642483","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:52:44.264190Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:52:44.273387Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:52:44.273658Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:52:44.273869Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:52:44.274088Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:52:44.280559Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:53:14.403894","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:53:15.057385Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:53:15.066743Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:53:15.067083Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:53:15.067303Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:53:15.067528Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:53:15.073184Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:53:45.205470","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:53:45.859134Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:53:45.872201Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:53:45.872464Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:53:45.872676Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:53:45.872879Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:53:45.873075Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:54:16.819835","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:54:17.397177Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:54:17.405914Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:54:17.406214Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:54:17.406414Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:54:17.406618Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:54:17.412129Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:54:48.338964","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:54:49.854261Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:54:49.863961Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:54:49.864224Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:54:49.864445Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:54:49.864654Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:54:49.870617Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:55:20.817415","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:55:21.441788Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:55:21.451022Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:55:21.451343Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:55:21.451619Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:55:21.451866Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:55:21.457434Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:55:52.348666","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:55:53.295187Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:55:53.305118Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:55:53.305486Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:55:53.305717Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:55:53.305972Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:55:53.311809Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:56:24.231054","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:56:24.869991Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:56:24.879014Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:56:24.879398Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:56:24.879664Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:56:24.879907Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:56:24.886118Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:56:55.808049","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:56:56.378990Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:56:56.388276Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:56:56.388579Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:56:56.388847Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:56:56.389104Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:56:56.394392Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:57:27.321483","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:57:27.904904Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:57:27.913944Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:57:27.914255Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:57:27.914471Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:57:27.914658Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:57:27.920414Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:57:58.850704","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:57:59.486553Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:57:59.495935Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:57:59.496311Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:57:59.496568Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:57:59.496768Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:57:59.502256Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:58:30.472506","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:58:31.326403Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:58:31.337247Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:58:31.337631Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:58:31.337867Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:58:31.338076Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:58:31.344092Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:59:02.313619","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:59:02.946899Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:59:02.957674Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:59:02.958076Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:59:02.958349Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:59:02.965146Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:59:02.965413Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:59:33.841232","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T15:59:34.665889Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:59:34.681597Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:59:34.682081Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:59:34.682301Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:59:34.682482Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T15:59:34.682673Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:00:05.537507","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T16:00:07.369452Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:00:07.379902Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:00:07.380355Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:00:07.380591Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:00:07.380807Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:00:07.388574Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:00:38.279200","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T16:00:38.957415Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:00:38.968854Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:00:38.969256Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:00:38.969502Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:00:38.969747Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:00:38.976356Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:01:09.895251","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T16:01:10.558165Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:01:10.568316Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:01:10.568743Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:01:10.568971Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:01:10.569178Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:01:10.576295Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:01:41.486321","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T16:01:42.088439Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:01:42.106301Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:01:42.106812Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:01:42.107026Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:01:42.107225Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:01:42.107425Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:02:13.020549","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T16:02:13.669996Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:02:13.680200Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:02:13.680549Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:02:13.680749Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:02:13.680985Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:02:13.687040Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:02:44.128266","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T16:02:44.763369Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:02:44.772581Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:02:44.772940Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:02:44.773187Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:02:44.773437Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:02:44.779549Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:03:15.279721","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T16:03:15.995695Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:03:16.005419Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:03:16.005856Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:03:16.006387Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:03:16.006622Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:03:16.013278Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:03:46.452715","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T16:03:47.138525Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:03:47.148201Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:03:47.148563Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:03:47.148785Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:03:47.149020Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:03:47.154918Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:04:17.596428","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T16:04:18.214559Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:04:18.223808Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:04:18.224146Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:04:18.224358Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:04:18.224573Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:04:18.230729Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:04:48.671009","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-04T16:04:49.395536Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:04:49.404492Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:04:49.404822Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:04:49.405007Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:04:49.405413Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-04T16:04:49.411327Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}

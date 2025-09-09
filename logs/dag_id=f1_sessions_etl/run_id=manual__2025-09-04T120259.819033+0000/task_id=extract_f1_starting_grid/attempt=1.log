@@ -1,0 +1,18 @@
+{"timestamp":"2025-09-04T12:04:11.089816","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-09-04T12:04:11.090226","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_extract_migration.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-09-04T12:04:11.758214Z","level":"info","event":"      position  driver_number  lap_duration  meeting_key  session_key","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-04T12:04:11.758786Z","level":"info","event":"0            1              1        89.708         1141         7768","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-04T12:04:11.759005Z","level":"info","event":"1            2             11        89.846         1141         7768","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-04T12:04:11.759209Z","level":"info","event":"2            3             16        90.000         1141         7768","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-04T12:04:11.759418Z","level":"info","event":"3            4             55        90.154         1141         7768","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-04T12:04:11.759620Z","level":"info","event":"4            5             14        90.336         1141         7768","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-04T12:04:11.759818Z","level":"info","event":"...        ...            ...           ...          ...          ...","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-04T12:04:11.760009Z","level":"info","event":"1509        16              5        86.446         1277         9943","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-04T12:04:11.760207Z","level":"info","event":"1510        17             18        86.504         1277         9943","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-04T12:04:11.760391Z","level":"info","event":"1511        18             87        85.471         1277         9943","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-04T12:04:11.760623Z","level":"info","event":"1512        19             27        86.574         1277         9943","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-04T12:04:11.760841Z","level":"info","event":"1513        20             43        87.060         1277         9943","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-04T12:04:11.761024Z","level":"info","event":"","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-04T12:04:11.761208Z","level":"info","event":"[1514 rows x 5 columns]","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-04T12:04:11.772073Z","level":"info","event":"Data successfully uploaded to Minio bucket 'datalake' as 'f1_starting_grid.csv'","chan":"stdout","logger":"task"}
+{"timestamp":"2025-09-04T12:04:11.772265","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.decorators.python._PythonDecoratedOperator"}

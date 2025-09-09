@@ -1,0 +1,28 @@
+# Open Source Data Engineering Stack with Docker
+
+This project sets up a local open-source Data Engineering stack using Docker Compose. It includes:
+
+* **Apache Airflow 3.0** for orchestrating data pipelines
+* **PostgreSQL** as Airflow's metadata database and also as DataWarehouse
+* **Redis** as the Celery broker for Airflow
+* **Apache Superset** for BI and data exploration
+* **MinIO** as an S3-compatible object storage
+* **mc** (MinIO Client) for bucket and file management
+* **Apache Iceberg REST Catalog** for table management
+* **Apache Spark with Iceberg** to process data and interact with Iceberg tables
+
+## 🧱 Components & Ports
+
+| Service          | Description                    | URL / Port                                     |
+| ---------------- | ------------------------------ | ---------------------------------------------- |
+| Airflow Web UI   | DAG management & orchestration | [http://localhost:8080](http://localhost:8080) |
+| Superset         | Data exploration & dashboards  | [http://localhost:8088](http://localhost:8088) |
+| MinIO Console    | S3-compatible object storage   | [http://localhost:9001](http://localhost:9001) |
+| Iceberg REST API |                                |                                                |
+
+
+## Docker commands
+
+docker compose down --volumes --remove-orphans
+
+docker compose up --build

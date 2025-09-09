@@ -1,0 +1,14 @@
+{"timestamp":"2025-08-07T10:50:52.982427","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-07T10:50:54.156983Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-07T10:50:54.180423Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-07T10:50:54.180796Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-07T10:50:54.181104Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-07T10:50:54.181335Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-07T10:50:54.188328Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-07T10:51:24.486907","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-07T10:51:25.138027Z","level":"info","event":"[{'meeting_key': 1266, 'session_key': 9928, 'location': 'Budapest', 'date_start': '2025-08-03T13:00:00+00:00', 'date_end': '2025-08-03T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 14, 'country_code': 'HUN', 'country_name': 'Hungary', 'circuit_key': 4, 'circuit_short_name': 'Hungaroring', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-07T10:51:25.147499Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-07T10:51:25.147870Z","level":"info","event":"0         1266         9928  ...  2025-08-03T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-07T10:51:25.148076Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-07T10:51:25.148281Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-08-07T10:51:25.153905Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}

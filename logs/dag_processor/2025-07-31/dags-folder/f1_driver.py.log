@@ -1,0 +1,938 @@
+{"timestamp":"2025-07-31T13:53:11.895814","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T13:53:14.035569Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:53:14.061228Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:53:14.061702Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:53:14.061972Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:53:14.062188Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:53:14.068068Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:54:25.855570","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T13:54:26.562059Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:54:26.563149Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:54:26.563550Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:54:26.563869Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:54:26.564155Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:54:26.564381Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:54:56.864718","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T13:54:57.792507Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:54:57.818135Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:54:57.818743Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:54:57.819148Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:54:57.819538Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:54:57.830530Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:55:28.231898","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T13:55:28.852995Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:55:28.863276Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:55:28.863634Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:55:28.863867Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:55:28.864066Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:55:28.869706Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:55:59.245731","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T13:55:59.913308Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:55:59.922869Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:55:59.923239Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:55:59.923456Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:55:59.923723Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:55:59.929363Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:56:30.342715","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T13:56:30.930571Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:56:30.940555Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:56:30.940825Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:56:30.941030Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:56:30.941214Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:56:30.946607Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:57:01.384013","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T13:57:03.409350Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:57:03.418593Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:57:03.418877Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:57:03.419100Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:57:03.419280Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:57:03.424682Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:57:33.807751","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T13:57:35.094554Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:57:35.105764Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:57:35.106140Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:57:35.106441Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:57:35.106663Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:57:35.111869Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:58:05.504940","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T13:58:06.311036Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:58:06.320236Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:58:06.320538Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:58:06.320747Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:58:06.320946Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:58:06.325584Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:58:36.712546","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T13:58:38.962609Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:58:38.971769Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:58:38.972111Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:58:38.972324Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:58:38.972551Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:58:38.977495Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:59:09.351254","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T13:59:09.947938Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:59:09.957436Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:59:09.957747Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:59:09.957987Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:59:09.958199Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:59:09.963098Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:59:40.335977","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T13:59:40.942465Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:59:40.951841Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:59:40.952220Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:59:40.952459Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:59:40.952678Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T13:59:40.957528Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:00:11.336950","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:00:13.474169Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:00:13.488754Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:00:13.488999Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:00:13.489190Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:00:13.489367Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:00:13.489549Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:00:43.881798","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:00:44.584123Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:00:44.593605Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:00:44.593951Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:00:44.594187Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:00:44.594389Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:00:44.599840Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:01:14.988537","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:01:15.625356Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:01:15.635767Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:01:15.636134Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:01:15.636441Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:01:15.636654Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:01:15.643242Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:01:46.033118","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:01:46.651727Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:01:46.660752Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:01:46.661058Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:01:46.661302Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:01:46.661595Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:01:46.667013Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:02:17.050963","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:02:17.646551Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:02:17.655874Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:02:17.656162Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:02:17.656354Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:02:17.656623Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:02:17.661450Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:02:48.043592","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:02:48.641603Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:02:48.651556Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:02:48.651878Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:02:48.652091Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:02:48.652293Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:02:48.658083Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:03:19.045247","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:03:19.661052Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:03:19.671496Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:03:19.671866Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:03:19.672096Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:03:19.672329Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:03:19.677537Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:03:50.076453","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:03:50.813219Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:03:50.822980Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:03:50.823255Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:03:50.823467Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:03:50.823680Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:03:50.829155Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:04:21.196984","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:04:22.150132Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:04:22.162445Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:04:22.162696Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:04:22.162899Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:04:22.163095Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:04:22.163300Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:04:52.541268","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:04:53.404358Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:04:53.413930Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:04:53.414216Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:04:53.414432Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:04:53.414630Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:04:53.419824Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:05:23.793573","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:05:24.363096Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:05:24.372573Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:05:24.372877Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:05:24.373089Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:05:24.373280Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:05:24.378002Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:05:54.759036","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:05:55.355079Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:05:55.363873Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:05:55.364162Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:05:55.364389Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:05:55.364641Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:05:55.369369Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:06:25.756709","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:06:26.392287Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:06:26.401345Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:06:26.401651Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:06:26.401916Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:06:26.402112Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:06:26.406755Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:06:56.787883","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:06:57.366981Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:06:57.375951Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:06:57.376225Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:06:57.376440Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:06:57.376650Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:06:57.382368Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:07:27.758169","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:07:28.354831Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:07:28.364108Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:07:28.364452Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:07:28.364672Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:07:28.364871Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:07:28.369827Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:07:58.770922","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:07:59.596281Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:07:59.606353Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:07:59.606717Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:07:59.606964Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:07:59.607224Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:07:59.613670Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:08:30.037903","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:08:31.356749Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:08:31.371658Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:08:31.371910Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:08:31.372104Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:08:31.372294Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:08:31.372496Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:09:01.776194","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:09:02.452383Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:09:02.461145Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:09:02.461449Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:09:02.461702Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:09:02.461896Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:09:02.466828Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:09:32.871448","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:09:33.500518Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:09:33.509768Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:09:33.510142Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:09:33.510398Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:09:33.510609Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:09:33.516987Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:10:03.955812","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:10:04.556807Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:10:04.566810Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:10:04.567106Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:10:04.567348Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:10:04.567569Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:10:04.572218Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:10:34.955706","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:10:35.540052Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:10:35.549148Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:10:35.549464Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:10:35.549658Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:10:35.549865Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:10:35.554824Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:11:05.927663","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:11:06.515097Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:11:06.524089Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:11:06.524504Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:11:06.524726Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:11:06.524960Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:11:06.530149Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:11:36.909734","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:11:37.513567Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:11:37.523052Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:11:37.523336Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:11:37.523571Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:11:37.523774Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:11:37.529357Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:12:07.937241","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:12:08.578423Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:12:08.587708Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:12:08.588004Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:12:08.588214Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:12:08.588429Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:12:08.594041Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:12:38.986821","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:12:39.577573Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:12:39.586656Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:12:39.586948Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:12:39.587165Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:12:39.587360Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:12:39.592400Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:13:09.973089","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:13:10.584230Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:13:10.593631Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:13:10.594024Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:13:10.594254Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:13:10.594462Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:13:10.599725Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:13:40.969828","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:13:41.542227Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:13:41.551276Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:13:41.551589Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:13:41.551833Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:13:41.552032Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:13:41.556761Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:14:11.941455","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:14:13.281702Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:14:13.292010Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:14:13.292421Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:14:13.292669Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:14:13.292928Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:14:13.298712Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:14:43.685186","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:14:44.280831Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:14:44.296815Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:14:44.297443Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:14:44.297877Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:14:44.298282Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:14:44.306003Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:15:14.689777","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:15:15.277869Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:15:15.286578Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:15:15.286922Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:15:15.287161Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:15:15.287364Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:15:15.292504Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:15:45.681032","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:15:46.283002Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:15:46.292032Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:15:46.292337Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:15:46.292531Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:15:46.292709Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:15:46.297486Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:16:16.671932","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:16:17.253308Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:16:17.262926Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:16:17.263234Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:16:17.263419Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:16:17.263588Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:16:17.268823Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:16:47.641953","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:16:48.214450Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:16:48.223487Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:16:48.223804Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:16:48.224012Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:16:48.224238Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:16:48.228849Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:17:18.611448","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:17:19.200368Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:17:19.210725Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:17:19.211076Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:17:19.211320Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:17:19.211529Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:17:19.216487Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:17:49.597557","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:17:50.202523Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:17:50.211045Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:17:50.211340Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:17:50.211591Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:17:50.211807Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:17:50.216332Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:18:20.595625","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:18:21.156309Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:18:21.166106Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:18:21.166412Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:18:21.166614Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:18:21.166792Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:18:21.172789Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:18:51.551839","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:18:52.134962Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:18:52.143572Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:18:52.143841Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:18:52.144100Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:18:52.144298Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:18:52.149040Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:19:22.533712","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:19:23.150139Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:19:23.160025Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:19:23.160352Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:19:23.160563Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:19:23.160794Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:19:23.165904Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:19:53.540405","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:19:54.273688Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:19:54.283504Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:19:54.283825Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:19:54.284027Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:19:54.284243Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:19:54.289621Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:20:24.680276","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:20:25.332699Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:20:25.343415Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:20:25.343763Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:20:25.344031Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:20:25.344257Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:20:25.350030Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:20:55.746904","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:20:56.469911Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:20:56.479230Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:20:56.479526Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:20:56.479774Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:20:56.480015Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:20:56.484970Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:21:26.869178","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:21:27.461878Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:21:27.471954Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:21:27.472256Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:21:27.472472Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:21:27.472672Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:21:27.477667Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:21:57.839303","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:21:58.550878Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:21:58.559772Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:21:58.560052Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:21:58.560266Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:21:58.560490Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:21:58.565197Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:22:28.935679","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:22:31.231638Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:22:31.241108Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:22:31.241402Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:22:31.241631Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:22:31.241840Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:22:31.247082Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:23:01.631480","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:23:03.246201Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:23:03.255814Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:23:03.256095Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:23:03.256314Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:23:03.256527Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:23:03.261250Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:23:33.637930","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:23:34.411917Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:23:34.422049Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:23:34.422350Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:23:34.422556Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:23:34.422786Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:23:34.427336Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:24:04.813116","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:24:05.469160Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:24:05.478787Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:24:05.479024Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:24:05.479196Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:24:05.479354Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:24:05.483793Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:24:35.855272","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:24:36.470449Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:24:36.479671Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:24:36.479962Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:24:36.480206Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:24:36.480458Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:24:36.485461Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:25:06.990292","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:25:07.550076Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:25:07.558761Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:25:07.559044Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:25:07.559289Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:25:07.559593Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:25:07.564637Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:25:38.034482","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:25:38.690523Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:25:38.699829Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:25:38.700101Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:25:38.700298Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:25:38.700477Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:25:38.705729Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:26:09.170646","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:26:09.730474Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:26:09.742169Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:26:09.742475Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:26:09.742729Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:26:09.742955Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:26:09.749186Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:26:40.212244","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:26:41.086468Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:26:41.095230Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:26:41.095511Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:26:41.095715Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:26:41.095913Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:26:41.100953Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:27:11.549478","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:27:12.139214Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:27:12.148079Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:27:12.148360Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:27:12.148559Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:27:12.148761Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:27:12.153893Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:27:42.631114","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:27:43.240947Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:27:43.250578Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:27:43.250875Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:27:43.251077Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:27:43.251259Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:27:43.257374Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:28:13.720647","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:28:14.335066Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:28:14.343692Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:28:14.343996Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:28:14.344224Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:28:14.344418Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:28:14.350275Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:28:44.822018","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:28:45.626617Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:28:45.643463Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:28:45.644037Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:28:45.644242Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:28:45.644451Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:28:45.644674Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:29:16.097036","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:29:16.662434Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:29:16.671843Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:29:16.672140Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:29:16.672347Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:29:16.672556Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:29:16.678360Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:29:47.037989","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:29:47.687024Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:29:47.696167Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:29:47.696641Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:29:47.696848Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:29:47.697042Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:29:47.702237Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:30:18.307353","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:30:18.899274Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:30:18.907931Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:30:18.908208Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:30:18.908430Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:30:18.908628Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:30:18.913701Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:30:49.399479","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:30:49.988444Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:30:49.997705Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:30:49.998012Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:30:49.998218Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:30:49.998408Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:30:50.004008Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:31:20.494313","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:31:21.092149Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:31:21.101956Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:31:21.102242Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:31:21.102451Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:31:21.102690Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:31:21.107911Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:31:51.669259","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:31:52.244859Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:31:52.254900Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:31:52.255193Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:31:52.255389Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:31:52.255593Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:31:52.261061Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:32:22.835925","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:32:23.803182Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:32:23.812787Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:32:23.813096Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:32:23.813304Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:32:23.813518Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:32:23.819309Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:32:54.298639","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:32:54.867131Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:32:54.876119Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:32:54.876382Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:32:54.876619Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:32:54.876852Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:32:54.882838Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:33:25.063761","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:33:25.627265Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:33:25.636179Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:33:25.636487Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:33:25.636730Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:33:25.636937Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:33:25.642243Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:33:56.695970","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:33:57.295707Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:33:57.306911Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:33:57.307249Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:33:57.307504Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:33:57.307714Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:33:57.313232Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:34:27.511788","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:34:28.117456Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:34:28.126967Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:34:28.127230Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:34:28.127462Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:34:28.127669Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:34:28.132864Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:34:58.265212","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:34:58.849483Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:34:58.858291Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:34:58.858600Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:34:58.858814Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:34:58.859044Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:34:58.865123Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:35:29.887517","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:35:30.478280Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:35:30.489427Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:35:30.489812Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:35:30.490008Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:35:30.490175Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:35:30.490351Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:36:01.538961","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:36:02.087417Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:36:02.096854Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:36:02.097216Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:36:02.097471Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:36:02.097657Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:36:02.103142Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:36:32.525286","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:36:33.559492Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:36:33.567493Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:36:33.567779Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:36:33.567992Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:36:33.568188Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:36:33.573205Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:37:03.995141","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:37:04.647885Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:37:04.659272Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:37:04.659483Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:37:04.659641Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:37:04.659809Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:37:04.659958Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:37:35.090644","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:37:35.690589Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:37:35.702946Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:37:35.703226Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:37:35.703439Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:37:35.703625Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:37:35.703809Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:38:06.120677","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:38:06.733647Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:38:06.738883Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:38:06.739120Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:38:06.739309Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:38:06.739484Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:38:06.739685Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:38:37.170489","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:38:37.840588Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:38:37.850370Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:38:37.850827Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:38:37.851098Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:38:37.851318Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:38:37.858789Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:39:08.306335","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:39:08.884034Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:39:08.900742Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:39:08.901209Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:39:08.901609Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:39:08.902527Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:39:08.911062Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:39:39.344497","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:39:39.998950Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:39:40.007342Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:39:40.007731Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:39:40.007959Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:39:40.008148Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:39:40.013465Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:40:10.426787","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:40:14.043432Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:40:14.052861Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:40:14.053154Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:40:14.053416Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:40:14.053626Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:40:14.058506Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:40:44.154396","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:40:44.741141Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:40:44.749913Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:40:44.750193Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:40:44.750445Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:40:44.750663Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:40:44.756314Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:41:14.838937","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:41:15.430701Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:41:15.440135Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:41:15.440525Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:41:15.440770Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:41:15.440985Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:41:15.447677Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:41:45.514721","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:41:46.088684Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:41:46.098601Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:41:46.098955Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:41:46.099164Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:41:46.099351Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:41:46.104806Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:42:16.184339","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:42:16.797332Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:42:16.806738Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:42:16.807136Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:42:16.807361Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:42:16.807567Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:42:16.813493Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:42:46.899052","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:42:47.472492Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:42:47.481266Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:42:47.481546Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:42:47.481832Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:42:47.482024Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:42:47.487799Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:43:17.578409","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:43:18.121382Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:43:18.130479Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:43:18.130773Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:43:18.131010Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:43:18.131199Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:43:18.136464Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:43:48.236820","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:43:50.910410Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:43:50.919159Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:43:50.919444Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:43:50.919685Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:43:50.920111Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:43:50.925974Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:44:20.993776","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:44:21.591838Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:44:21.605517Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:44:21.605760Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:44:21.605956Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:44:21.606135Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:44:21.606323Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:44:51.853480","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:44:52.447747Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:44:52.460395Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:44:52.460627Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:44:52.460816Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:44:52.461007Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:44:52.461194Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:45:22.589875","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:45:23.239371Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:45:23.252294Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:45:23.252581Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:45:23.252811Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:45:23.253018Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:45:23.253212Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:45:53.379406","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:45:53.997821Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:45:54.011151Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:45:54.011515Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:45:54.011713Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:45:54.011893Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:45:54.012068Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:46:25.087900","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:46:26.773492Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:46:26.787140Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:46:26.787554Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:46:26.787789Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:46:26.788023Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:46:26.795991Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:46:57.838405","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:46:58.409045Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:46:58.418480Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:46:58.418797Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:46:58.419011Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:46:58.419234Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:46:58.424635Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:47:28.577048","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:47:29.126180Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:47:29.135527Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:47:29.135817Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:47:29.136060Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:47:29.136323Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:47:29.141230Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:47:59.974017","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:48:00.606166Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:48:00.616724Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:48:00.617042Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:48:00.617272Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:48:00.617474Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:48:00.623096Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:48:31.666104","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:48:32.500757Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:48:32.509533Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:48:32.509884Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:48:32.510099Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:48:32.510305Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:48:32.515895Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:49:02.605089","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:49:03.152934Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:49:03.161662Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:49:03.161901Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:49:03.162115Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:49:03.162326Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:49:03.167647Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:49:34.193359","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:49:34.728584Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:49:34.738434Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:49:34.738755Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:49:34.738970Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:49:34.739185Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:49:34.744490Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:50:04.893435","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:50:05.436566Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:50:05.445369Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:50:05.445718Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:50:05.446064Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:50:05.446303Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:50:05.452327Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:50:36.468731","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:50:37.003724Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:50:37.012485Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:50:37.012774Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:50:37.013022Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:50:37.013241Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:50:37.018482Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:51:08.051632","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:51:08.640790Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:51:08.650047Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:51:08.650353Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:51:08.650583Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:51:08.650768Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:51:08.656634Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:51:38.728261","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:51:39.350521Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:51:39.360750Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:51:39.361086Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:51:39.361303Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:51:39.361512Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:51:39.367352Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:52:09.598423","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:52:10.023297Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:52:10.034278Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:52:10.034687Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:52:10.034939Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:52:10.035155Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:52:10.041508Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:52:40.928800","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:52:41.352678Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:52:41.362513Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:52:41.362921Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:52:41.363167Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:52:41.363353Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:52:41.369402Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:53:12.265937","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:53:12.668942Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:53:12.679791Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:53:12.680118Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:53:12.680337Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:53:12.680550Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:53:12.685680Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:53:43.593913","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:53:44.036550Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:53:44.053887Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:53:44.054360Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:53:44.054606Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:53:44.054818Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:53:44.055015Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:54:14.984412","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:54:15.979853Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:54:15.990737Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:54:15.991112Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:54:15.991306Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:54:15.991477Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:54:15.999815Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:54:46.964919","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:54:47.438759Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:54:47.448997Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:54:47.449517Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:54:47.449782Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:54:47.450044Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:54:47.456472Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:55:18.428021","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:55:18.841257Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:55:18.856900Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:55:18.857317Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:55:18.857558Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:55:18.857802Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:55:18.865466Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:55:49.766851","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:55:50.250263Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:55:50.261492Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:55:50.261980Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:55:50.262260Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:55:50.262493Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:55:50.269062Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:56:21.183165","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:56:21.593481Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:56:21.603584Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:56:21.603902Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:56:21.604146Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:56:21.604364Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:56:21.609689Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:56:52.485432","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:56:52.888141Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:56:52.902168Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:56:52.902595Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:56:52.902820Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:56:52.903013Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:56:52.909273Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:57:23.762323","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:57:24.195351Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:57:24.205736Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:57:24.206189Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:57:24.206414Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:57:24.206637Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:57:24.212931Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:57:54.989655","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:57:55.389249Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:57:55.398724Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:57:55.399048Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:57:55.399269Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:57:55.399459Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:57:55.404108Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:58:26.323200","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:58:26.735841Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:58:26.746096Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:58:26.746389Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:58:26.746615Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:58:26.746842Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:58:26.752337Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:58:57.635422","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:58:58.071616Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:58:58.081137Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:58:58.081415Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:58:58.081640Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:58:58.081890Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:58:58.087268Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:59:29.013503","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T14:59:29.405947Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:59:29.416772Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:59:29.417092Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:59:29.417340Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:59:29.417552Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T14:59:29.422957Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T15:00:00.294378","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T15:00:00.722836Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T15:00:00.732210Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T15:00:00.732531Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T15:00:00.732793Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T15:00:00.733053Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T15:00:00.738914Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T15:00:31.638051","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T15:00:32.071940Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T15:00:32.083849Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T15:00:32.084200Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T15:00:32.084394Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T15:00:32.084573Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T15:00:32.090769Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T15:01:03.031321","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T15:01:03.465817Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T15:01:03.475679Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T15:01:03.476115Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T15:01:03.476358Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T15:01:03.476555Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T15:01:03.481977Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T15:01:34.389695","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T15:01:34.859792Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T15:01:34.869199Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T15:01:34.869485Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T15:01:34.869686Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T15:01:34.869879Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T15:01:34.875385Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T15:02:05.770826","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T15:02:06.188670Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T15:02:06.198401Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T15:02:06.198774Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T15:02:06.199010Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T15:02:06.199247Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T15:02:06.212870Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T15:02:37.134179","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T15:02:37.862068Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T15:02:37.871863Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T15:02:37.872250Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T15:02:37.872525Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T15:02:37.872738Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T15:02:37.878805Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T15:03:08.779381","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-07-31T15:03:09.231938Z","level":"info","event":"[{'meeting_key': 1265, 'session_key': 9939, 'location': 'Spa-Francorchamps', 'date_start': '2025-07-27T13:00:00+00:00', 'date_end': '2025-07-27T15:00:00+00:00', 'session_type': 'Race', 'session_name': 'Race', 'country_key': 16, 'country_code': 'BEL', 'country_name': 'Belgium', 'circuit_key': 7, 'circuit_short_name': 'Spa-Francorchamps', 'gmt_offset': '02:00:00', 'year': 2025}]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T15:03:09.242312Z","level":"info","event":"   meeting_key  session_key  ...                 date_start  year","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T15:03:09.242648Z","level":"info","event":"0         1265         9939  ...  2025-07-27T13:00:00+00:00  2025","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T15:03:09.242897Z","level":"info","event":"","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T15:03:09.243127Z","level":"info","event":"[1 rows x 8 columns]","chan":"stdout","logger":"processor"}
+{"timestamp":"2025-07-31T15:03:09.248562Z","level":"info","event":"No Race session found.","chan":"stdout","logger":"processor"}

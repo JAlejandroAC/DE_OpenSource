@@ -1,0 +1,18 @@
+{"timestamp":"2025-08-21T16:21:12.650178","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-08-21T16:21:12.650613","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/f1_driver_test_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-08-21T16:21:14.176551Z","level":"info","event":"      meeting_key  ...  country_code","chan":"stdout","logger":"task"}
+{"timestamp":"2025-08-21T16:21:14.177043Z","level":"info","event":"0            1140  ...           NED","chan":"stdout","logger":"task"}
+{"timestamp":"2025-08-21T16:21:14.177251Z","level":"info","event":"1            1140  ...           USA","chan":"stdout","logger":"task"}
+{"timestamp":"2025-08-21T16:21:14.177464Z","level":"info","event":"2            1140  ...           GBR","chan":"stdout","logger":"task"}
+{"timestamp":"2025-08-21T16:21:14.177715Z","level":"info","event":"3            1140  ...           FRA","chan":"stdout","logger":"task"}
+{"timestamp":"2025-08-21T16:21:14.177925Z","level":"info","event":"4            1140  ...           MEX","chan":"stdout","logger":"task"}
+{"timestamp":"2025-08-21T16:21:14.178114Z","level":"info","event":"...           ...  ...           ...","chan":"stdout","logger":"task"}
+{"timestamp":"2025-08-21T16:21:14.178308Z","level":"info","event":"6173         1277  ...          None","chan":"stdout","logger":"task"}
+{"timestamp":"2025-08-21T16:21:14.178494Z","level":"info","event":"6174         1277  ...          None","chan":"stdout","logger":"task"}
+{"timestamp":"2025-08-21T16:21:14.178682Z","level":"info","event":"6175         1277  ...          None","chan":"stdout","logger":"task"}
+{"timestamp":"2025-08-21T16:21:14.178874Z","level":"info","event":"6176         1277  ...          None","chan":"stdout","logger":"task"}
+{"timestamp":"2025-08-21T16:21:14.179058Z","level":"info","event":"6177         1277  ...          None","chan":"stdout","logger":"task"}
+{"timestamp":"2025-08-21T16:21:14.179227Z","level":"info","event":"","chan":"stdout","logger":"task"}
+{"timestamp":"2025-08-21T16:21:14.179446Z","level":"info","event":"[6178 rows x 12 columns]","chan":"stdout","logger":"task"}
+{"timestamp":"2025-08-21T16:21:14.236976Z","level":"info","event":"Data successfully uploaded to Minio bucket 'datalake' as 'f1_drivers.csv'","chan":"stdout","logger":"task"}
+{"timestamp":"2025-08-21T16:21:14.239399","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.decorators.python._PythonDecoratedOperator"}
