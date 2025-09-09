@@ -26,3 +26,5 @@ This project sets up a local open-source Data Engineering stack using Docker Com
 docker compose down --volumes --remove-orphans
 
 docker compose up --build
+### Create the docker image fom the dockerfile
+docker build -t dataengineerairflow:3.0.3 .

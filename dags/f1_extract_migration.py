@@ -15,8 +15,8 @@ import io
 
 minio_client = Minio(
     "minio:9000",
-    access_key="pgjZqyfjEWz6jRAFUkmj",
-    secret_key="ekltvkmJFpXWbI6Dc7IfG7A3vZ7vKjo7d5n1YEgg",
+    access_key="minioadmin",
+    secret_key="minioadmin",
     secure=False
 )
 
