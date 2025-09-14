@@ -8,26 +8,11 @@ from datetime import datetime
 import os
 from minio import Minio
 import io 
+from include.utils import minio_client, f1_minio_list, default_args
 # import logging
 
 # logger = logging.getLogger(__name__)
 
-
-minio_client = Minio(
-    "minio:9000",
-    access_key="minioadmin",
-    secret_key="minioadmin",
-    secure=False
-)
-
-default_args = {
-    "owner": "airflow",
-    "depends_on_past": False,
-    "email_on_failure": False,
-    "email_on_retry": False,
-    "retries": 1,
-    "retry_delay": pd.Timedelta(minutes=1),
-}
 
 @dag(
     dag_id="f1_sessions_etl",

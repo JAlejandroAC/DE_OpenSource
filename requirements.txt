@@ -1,2 +1,2 @@
 minio==7.1.13
-sqlalchemy==2.0.20
+sqlalchemy==1.4.49

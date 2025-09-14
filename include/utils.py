@@ -1,4 +1,15 @@
 from minio import Minio
+import pandas as pd
+
+
+f1_minio_dict = {
+    "sessions": "sessions",
+    "drivers": "drivers",
+    "results": "session_result",
+    "starting_grid": "starting_grid",
+    "weather": "weather"
+}
+
 
 minio_client = Minio(
     "minio:9000",
