@@ -5,6 +5,7 @@ from datetime import datetime
 from minio import Minio
 from io import BytesIO
 import numpy as np
+from sqlalchemy import create_engine
 # import logging
 
 # logger = logging.getLogger(__name__)
@@ -16,6 +17,13 @@ minio_client = Minio(
     secret_key="minioadmin",
     secure=False
 )
+
+# PostgreSQL connection details
+db_user = 'airflow'
+db_password = 'airflow'
+db_host = 'localhost'
+db_port = '5432'
+db_name = 'your_database'
 
 bucket_name = 'datalake'
 prefix = 'bronce/session_result/'
@@ -34,6 +42,33 @@ try:
             # Read the CSV data from the response stream into a DataFrame
             df = pd.read_csv(BytesIO(response.read()))
 
+    df['status'] = np.select(
+        [
+            df['dns'] == True,
+            df['dsq'] == True,
+            df['dnf'] == True
+        ],
+        [
+            'dns',
+            'dsq',
+            'dnf'
+        ],
+        default=None
+    )
+
+    # Reorder columns
+    desired_order = [
+        'meeting_key',
+        'session_key',
+        'driver_number',
+        'status',
+        'position',
+        'number_of_laps',
+        'duration',
+        'gap_to_leader',
+        'points'
+    ]
+    df_clean = df[desired_order]
 
 except Exception as err:
     print(f"An error occurred: {err}")
@@ -42,5 +77,13 @@ finally:
         response.close()
         response.release_conn()
 
-print(df)
+engine = create_engine(f'postgresql+psycopg2://{db_user}:{db_password}@{db_host}:{db_port}/{db_name}')
+
+# Write df_clean to PostgreSQL table 'session_results_clean'
+df_clean.to_sql('session_results', engine, if_exists='replace', index=False)
+
+
+engine.dispose() # Closes all connections in the pool
+
 print(df.head())
+print(df_clean.head())
