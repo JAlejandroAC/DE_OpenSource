@@ -350,6 +350,15 @@ services:
     ports:
       - "4040:4040"
 
+  dbt:
+    image: ghcr.io/dbt-labs/dbt-postgres:1.7.19
+    volumes:
+      - ./dbt:/usr/app
+    working_dir: /usr/app
+    depends_on:
+      - postgres
+
+
 volumes:
   postgres-db-volume:
   minio-data:
