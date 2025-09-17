@@ -1,5 +1,0 @@
-{"timestamp":"2025-07-24T12:49:54.263179","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/test_dag.py","logger":"airflow.models.dagbag.DagBag"}
-{"timestamp":"2025-07-24T12:50:25.155191","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/test_dag.py","logger":"airflow.models.dagbag.DagBag"}
-{"timestamp":"2025-07-24T12:51:47.218329","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/test_dag.py","logger":"airflow.models.dagbag.DagBag"}
-{"timestamp":"2025-07-24T12:52:17.778077","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/test_dag.py","logger":"airflow.models.dagbag.DagBag"}
-{"timestamp":"2025-07-24T12:55:20.693574","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/test_dag.py","logger":"airflow.models.dagbag.DagBag"}
