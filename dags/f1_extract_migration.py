@@ -8,7 +8,7 @@ from datetime import datetime
 import os
 from minio import Minio
 import io 
-from include.utils import minio_client, f1_minio_list, default_args
+from include.utils import minio_client, f1_minio_dict, default_args
 # import logging
 
 # logger = logging.getLogger(__name__)
