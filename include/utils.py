@@ -13,8 +13,8 @@ f1_minio_dict = {
 
 minio_client = Minio(
     "minio:9000",
-    access_key="pgjZqyfjEWz6jRAFUkmj",
-    secret_key="ekltvkmJFpXWbI6Dc7IfG7A3vZ7vKjo7d5n1YEgg",
+    access_key="yvKv2KtQRBCbUuzK3l9H",
+    secret_key="2asgmDmzj8uEbS0TVpQeVVKrvCcMrOfCpSV3i5Jb",
     secure=False
 )
 

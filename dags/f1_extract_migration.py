@@ -15,7 +15,7 @@ from include.utils import minio_client, f1_minio_dict, default_args
 
 
 @dag(
-    dag_id="f1_sessions_etl",
+    dag_id="f1_extract_migration",
     start_date=datetime(2025, 1, 1),
     catchup=False,
     default_args=default_args,
