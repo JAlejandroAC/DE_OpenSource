@@ -20,11 +20,3 @@ This project sets up a local open-source Data Engineering stack using Docker Com
 | MinIO Console    | S3-compatible object storage   | [http://localhost:9001](http://localhost:9001) |
 | Iceberg REST API |                                |                                                |
 
-
-## Docker commands
-
-docker compose down --volumes --remove-orphans
-
-docker compose up --build
-### Create the docker image fom the dockerfile
-docker build -t dataengineerairflow:3.0.3 .

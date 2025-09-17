@@ -284,7 +284,7 @@ services:
     restart: always
 
   minio:
-    image: minio/minio:RELEASE.2024-06-04T19-20-08Z
+    image: minio/minio
     command: server /data --console-address ":9001"
     ports:
       - "9000:9000"
