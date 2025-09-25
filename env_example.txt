@@ -1,0 +1,33 @@
+# ────────────────
+# Postgres
+# ────────────────
+POSTGRES_USER=airflow
+POSTGRES_PASSWORD=airflow
+POSTGRES_DB=airflow
+
+# ────────────────
+# Airflow secrets
+# ────────────────
+AIRFLOW__API__AUTH__JWT_SECRET=DM4GVo43S-61PmmzR97pxdLUvUYU0xHjkq5_Hu7c-B4
+AIRFLOW__CORE__FERNET_KEY=
+AIRFLOW_UID=50000
+
+# ────────────────
+# Python paths
+# ────────────────
+# Local dev path
+PYTHONPATH=C:/Users/aleja/Desktop/Dev/DE_OpenSource
+# Docker path (will be overridden in docker-compose env)
+DOCKER_PYTHONPATH=/opt/airflow
+
+# ────────────────
+# Superset
+# ────────────────
+SUPERSET_SECRET_KEY=supersecretkey
+
+# ────────────────
+# MinIO
+# ────────────────
+MINIO_ROOT_USER=minioadmin
+MINIO_ROOT_PASSWORD=minioadmin
+AWS_REGION=us-east-1
