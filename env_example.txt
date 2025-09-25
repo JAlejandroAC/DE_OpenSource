@@ -16,7 +16,7 @@ AIRFLOW_UID=50000
 # Python paths
 # ────────────────
 # Local dev path
-PYTHONPATH=C:/Users/aleja/Desktop/Dev/DE_OpenSource
+PYTHONPATH=C:/Users/localpath
 # Docker path (will be overridden in docker-compose env)
 DOCKER_PYTHONPATH=/opt/airflow
 
