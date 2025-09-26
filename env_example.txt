@@ -8,7 +8,7 @@ POSTGRES_DB=airflow
 # ────────────────
 # Airflow secrets
 # ────────────────
-AIRFLOW__API__AUTH__JWT_SECRET=DM4GVo43S-61PmmzR97pxdLUvUYU0xHjkq5_Hu7c-B4
+AIRFLOW__API__AUTH__JWT_SECRET=your_key
 AIRFLOW__CORE__FERNET_KEY=
 AIRFLOW_UID=50000
 
@@ -31,3 +31,13 @@ SUPERSET_SECRET_KEY=supersecretkey
 MINIO_ROOT_USER=minioadmin
 MINIO_ROOT_PASSWORD=minioadmin
 AWS_REGION=us-east-1
+MINIO_ROOT_USER=your_key
+MINIO_ROOT_PASSWORD=your_key
+
+# ────────────────
+# Postgres
+# ────────────────
+POSTGRES_USER=airflow
+POSTGRES_PASSWORD=your_password
+POSTGRES_PORT=5432
+POSTGRES_DB=airflow
