@@ -1,7 +1,7 @@
 from minio import Minio
 import pandas as pd
 from sqlalchemy import create_engine
-
+import os
 
 f1_data_dict = {
     "results": "session_result",
@@ -14,8 +14,8 @@ f1_data_dict = {
 
 minio_client = Minio(
     "minio:9000",
-    access_key="yvKv2KtQRBCbUuzK3l9H",
-    secret_key="2asgmDmzj8uEbS0TVpQeVVKrvCcMrOfCpSV3i5Jb",
+    access_key=os.getenv("MINIO_ROOT_USER"),
+    secret_key=os.getenv("MINIO_ROOT_PASSWORD"),
     secure=False
 )
 
@@ -29,11 +29,11 @@ default_args = {
 }
 
 # PostgreSQL connection details
-sql_db_user = 'airflow'
-sql_db_password = 'airflow'
+sql_db_user = os.getenv('POSTGRES_USER')
+sql_db_password = os.getenv('POSTGRES_PASSWORD')
 sql_db_host = 'localhost'
-sql_db_port = '5432'
-sql_db_name = 'airflow'
+sql_db_port = os.getenv('POSTGRES_PORT')
+sql_db_name = os.getenv('POSTGRES_DB')
 sql_f1_schema = 'f1_data'
 
 sqlengine = create_engine(f'postgresql+psycopg2://{sql_db_user}:{sql_db_password}@{sql_db_host}:{sql_db_port}/{sql_db_name}')  
