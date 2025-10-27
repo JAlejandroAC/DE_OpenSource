@@ -1,0 +1,35 @@
+version: "3.9"
+
+services:
+  iceberg-rest:
+    image: tabulario/iceberg-rest:latest
+    ports:
+      - "8181:8181"
+    env_file:
+      - .env
+    environment:
+      CATALOG_WAREHOUSE: s3://warehouse/
+      CATALOG_IO__IMPL: org.apache.iceberg.aws.s3.S3FileIO
+      AWS_ACCESS_KEY_ID: ${MINIO_ROOT_USER}
+      AWS_SECRET_ACCESS_KEY: ${MINIO_ROOT_PASSWORD}
+      AWS_REGION: ${AWS_REGION}
+      S3_ENDPOINT: http://minio:9000
+    networks:
+      - data_platform_net
+
+  spark:
+    image: tabulario/spark-iceberg:latest
+    env_file:
+      - .env
+    ports:
+      - "4040:4040"
+    environment:
+      AWS_ACCESS_KEY_ID: ${MINIO_ROOT_USER}
+      AWS_SECRET_ACCESS_KEY: ${MINIO_ROOT_PASSWORD}
+      S3_ENDPOINT: http://minio:9000
+    networks:
+      - data_platform_net
+
+networks:
+  data_platform_net:
+    external: true

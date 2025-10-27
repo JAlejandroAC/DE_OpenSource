@@ -1,0 +1,25 @@
+version: "3.9"
+
+services:
+  superset:
+    image: apache/superset:4.1.1
+    env_file:
+      - ../.env
+    environment:
+      SUPERSET_ENV: production
+      SUPERSET_SECRET_KEY: ${SUPERSET_SECRET_KEY}
+      SUPERSET_LOAD_EXAMPLES: "no"
+    ports:
+      - "8088:8088"
+    volumes:
+      - superset-home:/app/superset_home
+    restart: always
+    networks:
+      - data_platform_net
+
+volumes:
+  superset-home:
+
+networks:
+  data_platform_net:
+    external: true

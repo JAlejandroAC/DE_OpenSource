@@ -2,3 +2,4 @@ logs/
 .env
 commands.txt
 .pyc
+claude.md

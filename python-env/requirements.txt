@@ -1,0 +1,5 @@
+pandas==2.2.2
+SQLAlchemy==2.0.31
+psycopg2-binary==2.9.9
+minio==7.2.7
+boto3==1.28.39

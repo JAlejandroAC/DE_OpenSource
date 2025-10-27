@@ -1,0 +1,18 @@
+version: "3.9"
+
+services:
+  python-env:
+    build: .
+    image: custom-python:latest
+    container_name: python-env
+    volumes:
+      - ./notebooks:/app/notebooks
+      - ./scripts:/app/scripts
+    working_dir: /app
+    tty: true
+    networks:
+      - data_platform_net
+
+networks:
+  data_platform_net:
+    external: true

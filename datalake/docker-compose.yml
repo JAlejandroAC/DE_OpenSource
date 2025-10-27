@@ -1,0 +1,36 @@
+version: "3.9"
+
+services:
+  minio:
+    image: minio/minio
+    command: server /data --console-address ":9001"
+    env_file:
+      - .env
+    ports:
+      - "9000:9000"
+      - "9001:9001"
+    volumes:
+      - minio-data:/data
+    networks:
+      - data_platform_net
+
+  mc:
+    image: minio/mc
+    depends_on:
+      - minio
+    entrypoint: >
+      /bin/sh -c "
+      until mc alias set local http://minio:9000 ${MINIO_ROOT_USER} ${MINIO_ROOT_PASSWORD}; do echo 'waiting for MinIO...' && sleep 2; done;
+      mc mb -f local/warehouse;
+      mc policy set public local/warehouse;
+      tail -f /dev/null
+      "
+    networks:
+      - data_platform_net
+
+volumes:
+  minio-data:
+
+networks:
+  data_platform_net:
+    external: true

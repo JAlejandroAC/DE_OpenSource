@@ -31,8 +31,6 @@ SUPERSET_SECRET_KEY=supersecretkey
 MINIO_ROOT_USER=minioadmin
 MINIO_ROOT_PASSWORD=minioadmin
 AWS_REGION=us-east-1
-MINIO_ROOT_USER=your_key
-MINIO_ROOT_PASSWORD=your_key
 
 # ────────────────
 # Postgres

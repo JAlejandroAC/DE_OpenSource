@@ -1,0 +1,6 @@
+version: "3.9"
+
+networks:
+  data_platform_net:
+    name: data_platform_net
+    driver: bridge
